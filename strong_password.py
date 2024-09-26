@@ -5,7 +5,7 @@
 
 import re
 
-test_passwords = ['foo', 'abc123', 'dontpani42', 'DontPani42', 'HF2', 'HF2fffff']
+test_passwords = ['foo', 'abc123', '4Dontpani2', 'doNtp52aNi', 'HF2', 'HF2fffff']
 
 
 good_password_regex = re.compile(r'''
